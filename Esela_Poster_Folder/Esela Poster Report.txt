@@ -1,0 +1,78 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: Maneesha Poster.ai
+Color Mode: CMYK color
+Color Profile: U.S. Web Coated (SWOP) v2
+Ruler Units: millimeters
+Artboard Dimensions: 210.0001 mm x 297.0001 mm
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+FMGanganee x (TrueType)
+FMDerana x (TrueType)
+FMEmanee x (TrueType)
+FMArjunn x (TrueType)
+apex-a.pura-013 (TrueType)
+apex-a.pura-002 (TrueType)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+C:\Users\ICT5\Desktop\Paani\Graphic\Maneesha MWC poster\Untitled-2.png
+Type: Transparent CMYK
+Bits per Pixel: 40
+Channels: 5
+Size: 4347K, 800 by 1113 pixels
+Dimensions: 595.424 by 758.644 points 
+Resolution: 96.738 by 105.631 pixels per inch
+
+
+C:\Users\ICT5\Desktop\Paani\Graphic\Maneesha MWC poster\peotv.png
+Type: Transparent CMYK
+Bits per Pixel: 40
+Channels: 5
+Size: 1088K, 560 by 398 pixels
+Dimensions: 82.103 by 57.513 points 
+Resolution: 491.093 by 498.257 pixels per inch
+
+
+C:\Users\ICT5\Desktop\Paani\Graphic\Maneesha MWC poster\channels4_profile.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 2373K, 900 by 900 pixels
+Dimensions: 77.734 by 57.513 points 
+Resolution: 833.611 by 1126.711 pixels per inch
+
+
+C:\Users\ICT5\Desktop\Paani\Graphic\Maneesha MWC poster\TV_Derana_logo.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 570K, 521 by 374 pixels
+Dimensions: 82.103 by 57.43 points 
+Resolution: 456.892 by 468.882 pixels per inch
